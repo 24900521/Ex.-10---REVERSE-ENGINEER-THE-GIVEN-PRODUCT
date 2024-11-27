@@ -33,10 +33,12 @@
 ## Input:
 
 ### Output:
+![Screenshot (22)](https://github.com/user-attachments/assets/65e54348-e976-423c-97cc-1168090e25b6)
 
 
-### Name:
-### Register Number:
+
+### Name:Vignesh V
+### Register Number:24900521
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
