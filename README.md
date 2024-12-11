@@ -33,7 +33,8 @@
 ## Input:
 
 ### Output:
-![Screenshot (22)](https://github.com/user-attachments/assets/65e54348-e976-423c-97cc-1168090e25b6)
+![Screenshot (32)](https://github.com/user-attachments/assets/777d5ac7-c615-4f3c-9c80-d9c94588ab2b)
+
 
 
 
